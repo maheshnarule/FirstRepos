@@ -1,2 +1,2 @@
 # FirstRepos
-fist repository
+fist repository of git hub
